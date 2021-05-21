@@ -9,7 +9,7 @@ Estudo feito utilizando docker, onde foi feita a build da imagem do Node e do My
 Praticar docker para usar no cargo de DevOps.
 ## :pencil: Tecnologias usadas. 
 Para a realização desse projeto foram utilizadas as seguintes tecnologias: 
-- [Node](https://docs.oracle.com/en/java/)
-- [Javascript](https://junit.org/junit5/)
-- [Mysql](https://docs.oracle.com/en/java/)
-- [Docker](https://refactoring.guru/pt-br/design-patterns/strategy)
+- [Node](https://nodejs.org/en/)
+- [Javascript](https://www.javascript.com/)
+- [Mysql](https://mysql.com/)
+- [Docker](https://www.docker.com/)
