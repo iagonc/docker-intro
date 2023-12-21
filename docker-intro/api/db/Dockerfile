@@ -1,2 +1,2 @@
-FROM mysql
+FROM mysql:8-oraclelinux8
 ENV MYSQL_ROOT_PASSWORD programadorabordo
